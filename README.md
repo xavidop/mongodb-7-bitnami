@@ -60,6 +60,10 @@ image:
   tag: '7.0'
 ```
 
+# Published versions
+- [Docker Hub](https://hub.docker.com/r/xavidop/mongodb)
+- [GitHub Container Registry](https://ghcr.io/xavidop/mongodb)
+
 # Versions
 - MongoDB 7.0.14
 - Bitnami chart tested with 15.6.18
